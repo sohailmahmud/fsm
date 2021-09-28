@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:app_settings_example/main.dart';
+import 'package:app_settings_manager/main.dart';
 
 void main() {
   testWidgets('Smoke test', (WidgetTester tester) async {
